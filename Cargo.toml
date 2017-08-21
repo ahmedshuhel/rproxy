@@ -1,0 +1,6 @@
+[package]
+name = "rproxy"
+version = "0.1.0"
+authors = ["Shuhel Ahmed <ahmedshuhel@newscred.com>"]
+
+[dependencies]
